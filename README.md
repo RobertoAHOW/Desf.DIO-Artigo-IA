@@ -7,7 +7,7 @@
 
 - Roteiro gerado via chatgpt
 - Copilot para criação das artes
-- PowerPoint para gerar capas
+- PowerPoint para gerar a logo
 
 
 ## 🛠️ Instruções de execução
