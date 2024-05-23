@@ -45,4 +45,4 @@ Utilize os prompts dentro do link do `chagpt` para criar um artigo de maneira au
 
 ---
 
-⌨️ com 💜 por [Roberto Costa](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Roberto Costa](https://github.com/RobertoAHOW)
